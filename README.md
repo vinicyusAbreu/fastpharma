@@ -2,7 +2,7 @@
 # 🏪 Fast Pharma
 
 ## 🤔 Sobre o projeto
-<hr>
+
 Um projeto de criar uma simulação de uma loja de farmácia virtual. Criado para um projeto de faculdade.
 
 ## ✨ Demonstração
