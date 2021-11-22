@@ -1,18 +1,18 @@
 
-# 🔎 Fast Pharma
+# 🏪 Fast Pharma
 
 ## 🤔 Sobre o projeto
 <hr>
-Um projeto para encontrar vagas de empregos ou adicionar vagas de empregos. Projeto feito utilizando Django.
+Um projeto de criar uma simulação de uma loja de farmácia virtual. Criado para um projeto de faculdade.
 
 ## ✨ Demonstração
 Veja abaixo um gif do projeto.<br>
-[![Image from Gyazo](https://i.gyazo.com/a804db9e7c5c915871e06602343bd5a1.gif)](https://gyazo.com/a804db9e7c5c915871e06602343bd5a1)
+[![Image from Gyazo](https://i.gyazo.com/62a2f5f98755552a75c94e9492ce3b40.gif)](https://gyazo.com/62a2f5f98755552a75c94e9492ce3b40)
 
 ## Iniciar projeto
 <hr>
 
-Depois de clonar o repositório, você deseja criar um ambiente virtual, para ter uma instalação limpa do Python. Você pode fazer isso executando o comando
+Depois de clonar o repositório, você precisa criar um ambiente virtual, para ter uma instalação limpa do Python. Você pode fazer isso executando o comando
 
 ```
 python -m venv env
