@@ -7,7 +7,7 @@ Um projeto de criar uma simulação de uma loja de farmácia virtual. Criado par
 
 ## ✨ Demonstração
 Veja abaixo um gif do projeto.<br>
-[![Image from Gyazo](https://i.gyazo.com/62a2f5f98755552a75c94e9492ce3b40.gif)](https://gyazo.com/62a2f5f98755552a75c94e9492ce3b40)
+<a href="https://gyazo.com/62a2f5f98755552a75c94e9492ce3b40"><img src="https://i.gyazo.com/62a2f5f98755552a75c94e9492ce3b40.gif" alt="Image from Gyazo" width="1280"/></a>
 
 ## Iniciar projeto
 <hr>
